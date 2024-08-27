@@ -1,3 +1,5 @@
+package JavaBasics;
+
 public class DataTypes {                   //class body start;
 
     public static void main(String[] args) //Main method start or execution point-where we ll write our code and the execution starts from once we run the project

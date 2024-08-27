@@ -1,3 +1,5 @@
+package JavaBasics;
+
 public class IfElseCondition
 {
     public static void main(String[] args)
