@@ -27,5 +27,13 @@ public class WrapperClassConcept
 
         String s = String.valueOf(j);
         System.out.println(s+20);
+
+        /*
+        What is numberFormat Exception in Java
+        If a string that user wants to convert is not a pure number or integer then we get NumberFormat Exception
+        String u = "200A";
+        int i1 = Integer.parseInt(u);
+        System.out.println(i1);
+        */
     }
 }
